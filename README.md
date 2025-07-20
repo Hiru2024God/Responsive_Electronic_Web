@@ -21,8 +21,12 @@ This is an E-Commerce web application designed to simulate a real-world online s
         
 🛠️ Built With :-   HTML5 | CSS | JavaScript
 
- 📷 Screenshots :-
-
+ 📷 Screenshots
+        ![Image Alt](https://github.com/Hiru2024God/Responsive_Electronic_Web/blob/4a7c89c1ad14a73bc5b2cd02aec9413484f242ac/User_Img.jpg)
+    Admin
+        ![Image Alt](https://github.com/Hiru2024God/Responsive_Electronic_Web/blob/4a7c89c1ad14a73bc5b2cd02aec9413484f242ac/Admin_Img.jpg)
+    Seller
+        ![Image Alt](https://github.com/Hiru2024God/Responsive_Electronic_Web/blob/4a7c89c1ad14a73bc5b2cd02aec9413484f242ac/Seller_Img.jpg)
 
 
 
